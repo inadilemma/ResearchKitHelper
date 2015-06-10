@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (1.2.2)
+  - AlamofireObjectMapper (0.2):
+    - Alamofire (~> 1.2)
+    - ObjectMapper (~> 0.10)
+  - ObjectMapper (0.12)
+  - Realm (0.93.1):
+    - Realm/Headers (= 0.93.1)
+  - Realm/Headers (0.93.1)
+  - RealmSwift (0.93.1):
+    - Realm (= 0.93.1)
+  - ResearchKit (1.1.2)
+  - XCGLogger (2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 1.2)
+  - AlamofireObjectMapper (~> 0.2)
+  - RealmSwift
+  - ResearchKit (~> 1.1)
+  - XCGLogger
+
+SPEC CHECKSUMS:
+  Alamofire: 11a6022f5089887d92ffb5a3014c97a0a915ab98
+  AlamofireObjectMapper: 0ed3f7b154a9b35bded72b2fa6adeee7ac49a9a2
+  ObjectMapper: ef4a369cbab75546029ceb7e8155772b5f8e8841
+  Realm: 694b93846a0772c904f9e0cc3559d1bc856d931e
+  RealmSwift: feeac2930716d9a04ba45637add4abe994fa05fd
+  ResearchKit: db2c5ff1dfe851cec9183b7c3dbc93d7373e6880
+  XCGLogger: 90570901ddf86d5479672d61a1b0a639235b851a
+
+COCOAPODS: 0.37.1

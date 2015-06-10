@@ -1,0 +1,6 @@
+framework module Pods_ResearchKitHelper {
+  umbrella header "Pods-ResearchKitHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
